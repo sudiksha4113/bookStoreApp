@@ -1,0 +1,101 @@
+[
+    {
+        "id":1,
+        "name":"Thriller Book",
+        "title":"every page has its own suspense be ready!!",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/man-sits-front-window-with-words-no-it_1051578-142738.jpg?w=826"
+
+    },
+
+    {
+        "id":2,
+        "name":"Action Book",
+        "title":"are you ready for the actions scenes ??",
+        "price":20,
+        "category":"Action",
+        "image":"https://img.freepik.com/premium-photo/young-beautiful-female-dancer-red-dress-jump-mixed-media_641298-24630.jpg?w=900"
+        
+    },
+    
+    {
+        "id":3,
+        "name":"Drama Book",
+        "title":"its time for some tea spilling and drama , let's begin..",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/traditional-carnival-venetian-mask-with-rich-decor-wooden-table-library-selective-focus_94863-1736.jpg?w=740"
+        
+    },
+    
+    {
+        "id":4,
+        "name":"Horror Book",
+        "title":"are you brave enough to handle the jumpscares and creep creatures ??",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/ghosts-pumpkins-halloween-dark-style_23-2151774550.jpg?t=st=1730652846~exp=1730656446~hmac=2d3104f10c68bb3c4fbd97f440507a496b93a066201ad910af2ce043ebeb2dab&w=826"
+        
+    },
+    
+    {
+        "id":5,
+        "name":"Biography Book",
+        "title":"it's time to get some knowledge about some great people on earth !",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/audiobooks-headphones-book-pile_144962-2172.jpg?w=740"
+        
+    },
+    
+    {
+        "id":6,
+        "name":"Anime Book",
+        "title":"there's a reason why people can't get over fictional characters , find out on your own !!",
+        "price":60,
+        "category":"Fiction",
+        "image":"https://img.freepik.com/free-photo/portrait-anime-character-shopping-cartoon-style_23-2151644386.jpg?t=st=1730652945~exp=1730656545~hmac=76d3171676497f6aa03f1830c9fbb6b83d928d23137c1aae754de2e8c6f99382&w=826"
+        
+    },
+    
+    {
+        "id":7,
+        "name":"Romantic Book",
+        "title":"Want to read some romance novel ? we are here to help you find best!",
+        "price":90,
+        "category":"Romance",
+        "image":"https://img.freepik.com/free-photo/flat-lay-wedding-card-roses-table_23-2148468541.jpg?t=st=1730661078~exp=1730664678~hmac=39741e99ff469f9c49d030fccd952ea5fca8bd1d9eed86292eba59c63f9bbe53&w=740"
+
+    },
+    
+    {
+        "id":8,
+        "name":"Sci-fi Book",
+        "title":"isn't it interesting to find science behind every action ?",
+        "price":49,
+        "category":"scientific",
+        "image":"https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107845.jpg?t=st=1730661171~exp=1730664771~hmac=63faafb3371daeb1ea808e65aa2d8dbf417f4914050774699f70dcc69a9cdd81&w=740"
+
+    },
+    
+    {
+        "id":9,
+        "name":"Comedy Book",
+        "title":"Laughter is the best therapy in the world , read what makes you laugh !!",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/portrait-mime-woman-artist-with-book_114963-15624.jpg?w=740"
+
+    },
+    
+    {
+        "id":10,
+        "name":"Religious Book",
+        "title":"want to know more about religions ? we can help you with that ..",
+        "price":76,
+        "category":"Religion",
+        "image":"https://img.freepik.com/premium-photo/spiritual-books-hindu_1279548-3667.jpg?w=740"
+
+    }
+]
